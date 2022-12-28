@@ -1,3 +1,3 @@
 # IBM
 
-## IBM Data Science Professional Certidication Course
+## IBM Data Science Professional Certification Course
